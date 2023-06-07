@@ -1,0 +1,16 @@
+:template: instruqt
+
+==================
+Instruqt Test Page
+==================
+
+Test page
+
+.. instruqt:: /mongodb/tracks/getting-started-with-mongodb?token=em_mk1-X-90h00xuqut
+
+In this page, we will...
+
+Test section
+------------
+
+.. instruqt:: /mongodb/tracks/getting-started-with-mongodb?token=em_mk1-X-90h00xuqut
